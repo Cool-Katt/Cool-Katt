@@ -15,6 +15,7 @@
   <br>💬 Ask me about: <a href=https://exercism.org/>Exercism!</a> It's awesome and you should try it!
   <br>🎯 Goals: To make the word a better place. Or world domination. Whichever happens first.
   <br>🎲 Fun fact about me: I <b>love</b> board games
+  <br>⚒ You can see my work at: <a href=https://github.com/Cool-Katt>Well, here, on my profile.</a> Just scroll down
 </p>
 
 ###
